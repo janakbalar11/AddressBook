@@ -1,4 +1,4 @@
-<font size="1"> Description </font>:
+#Description:
 This is a simple address book application that allows users to store contacts. You are able to add, search, browse, and delete contacts. 
 Features:
 Add Contact: You can add a contact by clicking Add New, which will take you to a separate window where you can enter the contact's first name, last name, and number. Then you can click save to have the contact be saved to the list of contacts.
